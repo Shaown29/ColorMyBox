@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="White_Box" parent="Theme.AppCompat">
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">@color/white</item>
+    </style>
+</resources>
